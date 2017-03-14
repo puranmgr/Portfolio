@@ -1,5 +1,6 @@
 ---
-title: Crispy Icons
+title: "Fewa Tal"
 ---
 
-![Crispy Icons]({{ site.github.url }}/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Fewa Tal]({{ site.github.url }}/assets/img/work/proj-3/img1.jpg)
+![Fewa Tal]({{ site.github.url }}/assets/img/work/proj-3/img2.jpg)

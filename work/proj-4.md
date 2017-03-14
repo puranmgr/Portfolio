@@ -1,5 +1,6 @@
 ---
-title: Flat Mobile UI/UX Concept
+title: "Durdle Door"
 ---
 
-![Flat Mobile UI/UX Concept]({{ site.github.url }}/assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![Durdle Door]({{ site.github.url }}/assets/img/work/proj-4/img1.jpg)
+![Durdle Door]({{ site.github.url }}/assets/img/work/proj-4/img2.jpg)
