@@ -11,10 +11,6 @@ avatar: "puran.jpg"
 # Colors
 
 accent: "#ff8080"
-<<<<<<< HEAD
-=======
-accent-light: "#ff9999"
->>>>>>> master
 
 textColor: "#666"
 headlineColor: "#333"
