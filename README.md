@@ -16,8 +16,8 @@ In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered templ
 
 ## Software tools used
 
-- Atom 1.12.0
-- GitHub Desktop
-- Mac Terminal
-- Adobe Photoshop CC 2015
-- Gratisography 
+* Atom 1.12.0
+* GitHub Desktop
+* Mac Terminal
+* Adobe Photoshop CC 2015
+* Gratisography 
