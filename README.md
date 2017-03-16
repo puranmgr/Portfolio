@@ -13,3 +13,11 @@ In order to get this super fantastic [Jekyll](http://jekyllrb.com) powered templ
 * Then `cd Artists-Theme`
 * `jekyll serve --watch`
 * **DONE**
+
+## Software tools used
+
+- Atom 1.12.0
+- GitHub Desktop
+- Mac Terminal
+- Adobe Photoshop CC 2015
+- Gratisography 
