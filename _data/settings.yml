@@ -85,7 +85,7 @@ clients:
 - {avatar: 'laure.jpg',
   name: 'Devendra Thapa',
   title: 'Computer Science MSc (PGCert PGDip)',
-  quote: '<p>He will ensure the process of <strong>creating</strong> a project will be as intuitive as the goal of the final artefact.</p>',
+  quote: '<p><strong>Gym, football and coding buddy.</strong> Brothers with same visions and interests. #southam</p>',
   logo: 'logo2.png'}
 - {avatar: 'sujata.jpg',
   name: 'Sujata Thapa',
@@ -95,5 +95,5 @@ clients:
 - {avatar: 'thaman.jpg',
   name: 'Thaman Pun',
   title: 'PGGMB',
-  quote: '<p><strong>Best mate since school!</strong> Thanks to the interweb, we are still in touch frequently despite being hundred miles further apart. Lake District trip soon?</p>',
+  quote: '<p><strong>Best mate since school!</strong> Thanks to the web, we are still in touch frequently despite being hundred miles further apart. Possible trip to Berlin? </p>',
   logo: 'logo4.png'}
