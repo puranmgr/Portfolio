@@ -9,7 +9,7 @@ email: puranmgr@gmail.com
 
 menu:
 - {name: About Me, url: '#about-me'}
-- {name: Work, url: '#work'}
+- {name: Work, url: '#Photos'}
 - {name: Clients, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
