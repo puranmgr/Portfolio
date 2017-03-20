@@ -50,11 +50,11 @@ blurb: >
 skills:
 - {name: Communication, value: '7'}
 - {name: Organization, value: '8'}
-- {name: Learning, value: '9'}
-- {name: Teaching, value: '6'}
+- {name: Learning, value: '8'}
+- {name: Project Management, value: '7'}
 - {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
-- {name: UX Design, value: '8'}
+- {name: Visual Design, value: '8'}
+- {name: Video Editing, value: '7'}
 - {name: Programming, value: '6'}
 
 #-------------------------------
